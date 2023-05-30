@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "Ray博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://raybynobodycares.gitee.io/",
   },
   {
     icon: CompactDisc,
